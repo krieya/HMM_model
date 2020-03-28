@@ -46,10 +46,6 @@ percent correct data
 0.001
 starting accuracy
 0.08438053310735864
-hmm_tagger.py:169: RuntimeWarning: divide by zero encountered in log2
-  total_logp += np.log2(np.exp(logp))
-hmm_tagger.py:157: RuntimeWarning: invalid value encountered in double_scalars
-  while last_perplexity == -1 or last_perplexity -curr_perplexity > 0.5:
 ending accuracy
 0.1828448697545281
 percent correct data
