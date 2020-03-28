@@ -20,7 +20,7 @@ In the EM method, I tested a variety of correct data percentages and the accurac
 
 ### Usage
 
-`python hmm_model.py`
+`python hmm_tagger.py`
 
 ### Sample output
 
